@@ -1,1 +1,1 @@
-![](bsod.png)
+![](bsod.png?2)
